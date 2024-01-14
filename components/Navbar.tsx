@@ -23,7 +23,7 @@ const Navbar = () => {
                 <div className="flex flex-row gap-5">
                     <div
                         onClick={() =>
-                            window.open("mailto:ibrahimmemon930@gmail.com")
+                            window.open("mailto:abhijithabhijith1999@gmail.com")
                         }
                         className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
                     >
