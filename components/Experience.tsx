@@ -38,7 +38,7 @@ const Experience = () => {
                     <br />
                     My expertise in React.js and Next.js has empowered me to
                     craft dynamic and responsive web applications. As a React.js
-                    developer, I've mastered the art of creating fast, scalable,
+                    developer, I've mastered the art of creating fast, scalable
                     and engaging web pages with a focus on delivering
                     exceptional user experiences. My proficiency extends to
                     component-based architecture and effective state management.
