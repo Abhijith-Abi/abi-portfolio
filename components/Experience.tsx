@@ -15,7 +15,7 @@ const Experience = () => {
                         <span className="font-semibold">STEYP /</span> Software
                         Engineer
                     </p>
-                    <p className="text-gray-300">OCT 2023 - PRESENT, KOCHI</p>
+                    <p className="text-gray-300">OCT 2022 - PRESENT, KOCHI</p>
                 </div>
                 <p className="text-gray-300 pt-5">
                     Currently, I am working on Full-Stack Developer ,{" "}
